@@ -1,0 +1,40 @@
+.style {
+   width: auto;
+   font-family: sans-serif;
+   font-weight: bold;
+}
+
+.colorDefinition {
+    background: #FFFFFF;
+    color : red;
+}
+
+.size_xl {
+   font-size:25px;
+   border-width: 3px;
+   border-radius: 3px;
+}
+
+.size_lg {
+   font-size:25px;
+   border-width: 2px;
+   border-radius: 2px;
+}
+
+.size_md {
+   font-size:30px;
+   border-width: 2px;
+   border-radius: 2px;
+}
+
+.size_sm {
+   font-size:20px;
+   border-width: 1px;
+   border-radius: 1px;
+}
+
+.size_xs {
+   font-size:15px;
+   border-width: 1px;
+   border-radius: 1px;
+}

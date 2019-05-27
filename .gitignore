@@ -1,0 +1,9 @@
+/public/uploads/
+/bootstrap/autoload.php
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.idea/*
